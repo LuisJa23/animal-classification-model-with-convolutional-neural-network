@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/config/router/app_router.dart';
-import 'package:flutter_application_2/presentation/providers/image_data.dart';
+import 'package:clasificador_de_animales/config/router/app_router.dart';
+import 'package:clasificador_de_animales/presentation/providers/image_data.dart';
 import 'package:provider/provider.dart';
 
 void main() {

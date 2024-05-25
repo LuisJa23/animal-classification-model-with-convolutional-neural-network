@@ -1,8 +1,8 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/presentation/providers/image_data.dart';
-import 'package:flutter_application_2/presentation/screens/data_screen.dart';
-import 'package:flutter_application_2/presentation/screens/help_screen.dart';
+import 'package:clasificador_de_animales/presentation/providers/image_data.dart';
+import 'package:clasificador_de_animales/presentation/screens/data_screen.dart';
+import 'package:clasificador_de_animales/presentation/screens/help_screen.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatelessWidget {

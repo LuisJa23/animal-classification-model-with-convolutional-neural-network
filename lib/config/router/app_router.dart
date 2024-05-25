@@ -1,4 +1,4 @@
-import 'package:flutter_application_2/presentation/screens/home_screen.dart';
+import 'package:clasificador_de_animales/presentation/screens/home_screen.dart';
 import 'package:go_router/go_router.dart';
 
 
